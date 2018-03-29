@@ -27,10 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+          Written by <strong>Richard Bo Tian</strong> who lives and works in Sydney building useful things.{' '}
+          <a href="https://linkedin.com/in/bo-tian-9012a2124">
+            You can find him on Linkedin
           </a>
         </p>
       </div>
