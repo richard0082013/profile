@@ -31,7 +31,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Bo's Blog
+            Bo's Learning Blog
           </Link>
         </h1>
       )
